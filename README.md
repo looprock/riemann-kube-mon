@@ -1,7 +1,8 @@
 # riemann-kube-mon
 Ship kubernetes status to riemann
 
-able to report on:
+# able to report on:
+
 daemonsets
 
 deployments
